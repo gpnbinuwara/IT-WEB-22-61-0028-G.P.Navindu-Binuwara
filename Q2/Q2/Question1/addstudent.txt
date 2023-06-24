@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add New Student Info</title>
+</head>
+<body>
+    <h1>Add New Student Information</h1>
+    <form method="post" action="SaveStudent.aspx">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city" required><br><br>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required><br><br>
+
+        <input type="submit" value="Save">
+    </form>
+</body>
+</html>

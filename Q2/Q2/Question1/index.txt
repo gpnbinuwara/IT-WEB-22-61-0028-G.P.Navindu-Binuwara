@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>Welcome to Student Information Management System</h1>
+    <ul>
+        <li><a href="AddStudent.aspx">Add New Student Info</a></li>
+        <li><a href="AddCourse.aspx">Add New Course Info</a></li>
+        <li><a href="StudentInfo.aspx">View Student Information</a></li>
+    </ul>
+</body>
+</html>
